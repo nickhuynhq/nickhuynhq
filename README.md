@@ -5,16 +5,16 @@
   
   <div id="badges">
     <p>Current Status: Coding</p>
-    <a href="https://nickhuynhq.com">
+    <a href="https://nickhuynhq.com" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website Badge"/>
     </a>
-    <a href="https://www.linkedin.com/in/nickhuynhq/">
+    <a href="https://www.linkedin.com/in/nickhuynhq/" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-    <a href="https://discordapp.com/users/241018835237339136">
+    <a href="https://discordapp.com/users/241018835237339136" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
     </a>
-    <a href="https://twitter.com/nickhuynhq">
+    <a href="https://twitter.com/nickhuynhq" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
   </div>
