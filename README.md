@@ -1,16 +1,25 @@
-### Hi there 👋
+### Welcome to my GitHub 👋
+<div id="header" align="center">
+  
+  ![giphy](https://user-images.githubusercontent.com/71597829/198354539-a959d573-4bae-4211-abec-cc0cf4367224.gif)
+  
+  <div id="badges">
+    <p>Current Status: Coding</p>
+    <a href="https://nickhuynhq.com">
+      <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Personal Website Badge"/>
+    </a>
+    <a href="https://www.linkedin.com/in/nickhuynhq/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://discordapp.com/users/241018835237339136">
+      <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
+    </a>
+    <a href="https://twitter.com/nickhuynhq">
+      <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    </a>
+  </div>
+</div>
 
-<!--
-**nickhuynhq/nickhuynhq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
