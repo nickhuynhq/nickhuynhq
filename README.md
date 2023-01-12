@@ -1,6 +1,6 @@
 <h1>Hi, Nick here! 🐵</h1>
 
-<b>I'm a Full Stack Web Developer with a background in IT 💻 & Finance 🗠! <br> My passions are to create great designs and implementations!</b>
+<b>I'm a Full Stack Web Developer with a background in IT 💻 & Finance 📈! <br> My passions are to create great designs and implementations!</b>
 
 <h2> 🌟 Check Out My Porfolio -> 
   <a href="https://nickhuynhq.com" target="_blank" rel="noopener noreferrer">
