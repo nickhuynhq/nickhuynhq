@@ -2,7 +2,7 @@
 
 <b>I'm a Full Stack Web Developer with a background in IT 💻 & Finance 🗠! <br> My passions are to create great designs and implementations!</b>
 
-<h2> 🌟 Check My Porfolio Here: 
+<h2> 🌟 Check Out My Porfolio -> 
   <a href="https://nickhuynhq.com" target="_blank" rel="noopener noreferrer">
     Lets Do It!
   </a>
@@ -14,7 +14,7 @@
 🌟 When Im not at my desk, you can find me at a squat rack 🏋️, cycling 🚴‍♂️, or exploring the great outdoors 🌲 <br>
 📍 Fun Fact! I'm an avid Tech Enthusiast in computer hardware and Audiophile 🎧<br>
 
-<h3>Languages & Tools I Use:</h3>
+<h2>🧰 Things I Use</h2>
 <h4>Languages</h4>
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html" >
