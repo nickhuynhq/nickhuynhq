@@ -22,9 +22,6 @@
 <a href="https://www.linkedin.com/in/nickhuynhq/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png" alt="linkedin"/>
 </a>
-<a href="https://twitter.com/nickhuynhq" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/doodle/48/null/old-twitter-logo.png" alt="twitter"/>
-</div>
 
 
 
