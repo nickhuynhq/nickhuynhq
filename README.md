@@ -14,15 +14,5 @@
 🌟 When I'm not at my desk, you can find me at a squat rack 🏋️, cycling 🚴‍♂️, or exploring the great outdoors 🌲 <br>
 🤓 Fun Fact! I'm an avid Tech Enthusiast in computer hardware and Audiophile 🎧<br>
 
-  
-<h3>Connect with me!</h3>
-<a href="https://nickhuynhq.com" target="_blank" rel="noopener noreferrer">
- <img src="https://img.icons8.com/doodle/48/null/domain.png" alt="website"/>
-</a>
-<a href="https://www.linkedin.com/in/nickhuynhq/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png" alt="linkedin"/>
-</a>
-
-
 
 
