@@ -2,9 +2,9 @@
 
 <b>I'm a Full Stack Web Developer with a background in IT 💻 & Finance 📈! <br> My passions are to create great designs and implementations!</b>
 
-<h2> 🌟 Check Out My Porfolio -> 
+<h2>
   <a href="https://nickhuynhq.com" target="_blank" rel="noopener noreferrer">
-    Lets Do It!
+   🌟 Check Out My Porfolio
   </a>
 </h2> 
 
