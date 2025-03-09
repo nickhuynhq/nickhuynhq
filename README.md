@@ -8,8 +8,6 @@
   </a>
 </h2> 
 
-
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/18/null/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-color-tal-revivo.png" alt="typescript"/> Currently mastering TypeScript to create less error prone applications<br>
 🌟 When I'm not at my desk, you can find me at a squat rack 🏋️, cycling 🚴‍♂️, or exploring outdoors 🌲 <br>
 🤓 Fun Fact! I'm also a film photographer 📷<br>
 
